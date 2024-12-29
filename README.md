@@ -1,4 +1,4 @@
-# 📊 From Tweets to Trends: Twitter Sentiment Analysis Using Machine Learning
+# 📊 From Tweets to Trends: Twitter Sentiment Analysis Using Machine Learning And NLP
 
 ## 🌟 Overview
 This project explores the use of Natural Language Processing (NLP) and machine learning techniques to classify sentiments expressed in Twitter data as positive, negative, or neutral. The Sentiment140 dataset, containing 1.6 million labeled tweets, was utilized for model training and evaluation.
